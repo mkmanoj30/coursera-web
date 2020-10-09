@@ -1,0 +1,31 @@
+body{
+	font-family: Arial
+}
+h2 {
+	text-align: center;
+	color: blue;
+}
+body {
+  background: grey;
+}
+
+#chicken-head{
+	display: inline;
+	border: 1px solid black;
+	padding: 1px;
+	color: red;
+}
+
+#beef-head{
+	color: orange;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 1px;
+}
+
+#sushi-head{
+	color: yellow;
+	display: inline-block;
+	border : 1px solid black;
+	padding: 1px;
+}
